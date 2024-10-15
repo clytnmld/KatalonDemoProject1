@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Login_st0</name>
+   <tag></tag>
+   <elementGuidId>b505a747-2062-42fa-a199-0cf8014dcda2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path.st0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>b8b6e3b6-de70-4066-937e-0cb20ef6c45a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>st0</value>
+      <webElementGuid>8bf34741-5978-4e06-8196-7f2effd4c44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M 250 0 C 387.99 0 500 112.01 500 250 C 500 387.99 387.99 500 250 500 C 112.01 500 0 387.99 0 250 C 0 112.01 112.01 0 250 0 Z M 171.814 390.523 L 171.814 195.261 L 106.945 195.261 L 106.945 390.523 L 171.814 390.523 Z M 405.883 390.523 L 405.883 278.595 C 405.883 218.627 373.857 190.768 331.128 190.768 C 296.732 190.768 281.291 209.722 272.631 223.039 L 272.631 195.261 L 207.762 195.261 C 208.66 213.562 207.762 390.523 207.762 390.523 L 272.631 390.523 L 272.631 281.454 C 272.631 275.653 273.04 269.771 274.755 265.604 C 279.412 253.921 290.115 241.912 308.089 241.912 C 331.536 241.912 340.932 259.804 340.932 286.029 L 340.932 390.523 L 405.883 390.523 Z M 139.788 101.144 C 117.566 101.144 103.105 115.768 103.105 134.885 C 103.105 153.595 117.157 168.627 138.971 168.627 L 139.379 168.627 C 162.01 168.627 176.062 153.595 176.062 134.885 C 175.654 115.686 162.01 101.144 139.788 101.144 Z</value>
+      <webElementGuid>9a2a3ce5-76dd-4ec4-9f93-ef3cfabde5e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]/div[@class=&quot;orangehrm-login-slot&quot;]/div[@class=&quot;orangehrm-login-footer&quot;]/div[@class=&quot;orangehrm-login-footer-sm&quot;]/a[1]/svg[@class=&quot;oxd-icon orangehrm-sm-icon&quot;]/g[1]/path[@class=&quot;st0&quot;]</value>
+      <webElementGuid>624d74d1-8240-49ad-9838-38f7c441294d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
